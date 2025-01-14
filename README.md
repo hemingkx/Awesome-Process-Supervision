@@ -2,8 +2,6 @@ This repository contains a regularly updated paper list for **Process Supervisio
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License](https://img.shields.io/badge/License-Apache_2.0-green.svg)](./LICENSE) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/hemingkx/SpeculativeDecodingPapers/main?logo=github&color=blue)
 
-
-
 ## Training
 
 This section focuses on the training process of reward models.
@@ -30,8 +28,6 @@ This section focuses on the training process of reward models.
 1. Process Reinforcement through Implicit Rewards. Blog 2024. [[blog](https://curvy-check-498.notion.site/Process-Reinforcement-through-Implicit-Rewards-15f4fcb9c42180f1b498cc9b2eaf896f)] 
 2. Free Process Rewards without Process Labels. Arxiv 2024. [[paper](https://aclanthology.org/2024.acl-long.510/)]
 
-
-
 ## Reward-guided Inference
 
 1. Tree of Thoughts: Deliberate Problem Solving with Large Language Models. Arxiv 2023. [[paper](https://arxiv.org/abs/2305.10601)]
@@ -44,20 +40,14 @@ This section focuses on the training process of reward models.
 8. Enhancing Reasoning through Process Supervision with Monte Carlo Tree Search. AAAI 2025 NeurMAD Workshop. [[paper](https://arxiv.org/abs/2501.01478)]
 9. rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking. Arxiv 2025.[[paper](https://arxiv.org/pdf/2501.04519)]
 
-
-
 ## Evaluation
 
 1. ProcessBench: Identifying Process Errors in Mathematical Reasoning. Arxiv 2024. [[paper](https://arxiv.org/pdf/2412.06559)]
 2. PRMBench: A Fine-grained and Challenging Benchmark for Process-Level Reward Models. Arxiv 2024. [[paper](https://arxiv.org/pdf/2501.03124)]
 
-
-
 ## Analysis & Interpretability
 
 1. What Are Step-Level Reward Models Rewarding? Counterintuitive Findings from MCTS-Boosted Mathematical Reasoning. AAAI 2025. [[paper](https://arxiv.org/pdf/2412.15904)]
-
-   
 
 ## Application
 
@@ -68,8 +58,6 @@ This section focuses on the training process of reward models.
 5. E2CL: Exploration-based Error Correction Learning for Embodied Agents. EMNLP 2024 Findings. [[paper](https://aclanthology.org/2024.findings-emnlp.448/)]
 6. Process-Supervised Reward Models for Clinical Note Generation: A Scalable Approach Guided by Domain Expertise. ArXiv 2024. [[paper](https://arxiv.org/abs/2412.12583)]
 7. ToolComp: A Multi-Tool Reasoning & Process Supervision Benchmark. ArXiv 2024. [[paper](https://arxiv.org/abs/2501.01290)]
-
-
 
 ## Contributing to this paper list
 
