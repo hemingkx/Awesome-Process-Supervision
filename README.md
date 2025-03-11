@@ -54,7 +54,7 @@ This section focuses on the training process of reward models.
 1. Process Supervision-Guided Policy Optimization for Code Generation. ArXiv 2024. [[paper](https://arxiv.org/abs/2410.17621)]
 2. Outcome-Refining Process Supervision for Code Generation. APlanrXiv 2024. [[paper](https://arxiv.org/abs/2412.15118)]
 3. Diving into Self-Evolving Training for Multimodal Reasoning. Arxiv 2024. [[paper](https://arxiv.org/pdf/2412.17451)] [[homepage](https://mstar-lmm.github.io/)]
-4. Watch Every Step! LLM Agent Learning via Iterative Step-Level Process Refinement (embodied agent). EMNLP 2024. [[paper](https://aclanthology.org/2024.emnlp-main.93.pdf)]
+4. Watch Every Step! LLM Agent Learning via Iterative Step-Level Process Refinement. EMNLP 2024. [[paper](https://aclanthology.org/2024.emnlp-main.93.pdf)]
 5. E2CL: Exploration-based Error Correction Learning for Embodied Agents. EMNLP 2024 Findings. [[paper](https://aclanthology.org/2024.findings-emnlp.448/)]
 6. Process-Supervised Reward Models for Clinical Note Generation: A Scalable Approach Guided by Domain Expertise. ArXiv 2024. [[paper](https://arxiv.org/abs/2412.12583)]
 7. ToolComp: A Multi-Tool Reasoning & Process Supervision Benchmark. ArXiv 2024. [[paper](https://arxiv.org/abs/2501.01290)]
