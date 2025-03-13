@@ -1,20 +1,20 @@
 This repository contains a regularly updated paper list for **Process Supervision**.
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License](https://img.shields.io/badge/License-Apache_2.0-green.svg)](./LICENSE) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/hemingkx/SpeculativeDecodingPapers/main?logo=github&color=blue)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License](https://img.shields.io/badge/License-Apache_2.0-green.svg)](./LICENSE) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/hemingkx/Awesome-Process-Supervision/main?logo=github&color=blue)
 
 ## Training
 
 This section focuses on the training process of reward models.
 
-### Reward Annotation
+### 1、Reward Annotation
 
-##### Human Annotation
+#### Human Annotation
 
 1. Let's Verify Step by Step. ICLR 2024. [[paper](https://aclanthology.org/2024.acl-long.510/)]
 2. Solving math word problems with process- and outcome-based feedback. Arxiv 2023. [[paper](https://arxiv.org/abs/2211.14275)]
 3. Fine-Grained Human Feedback Gives Better Rewards for Language Model Training. NeurIPS 2023. [[paper](https://arxiv.org/abs/2306.01693)]
 
-##### Automatic Annotation
+#### Automatic Annotation
 
 1. Math-Shepherd: A Label-Free Step-by-Step Verifier for LLMs in Mathematical Reasoning. ACL 2024. [[paper](https://aclanthology.org/2024.acl-long.510/)] 
 2. Multi-step Problem Solving Through a Verifier: An Empirical Analysis on Model-induced Process Supervision. EMNLP 2024 Findings. [[paper](https://arxiv.org/abs/2402.02658)] 
@@ -23,7 +23,7 @@ This section focuses on the training process of reward models.
 5. Improve Mathematical Reasoning in Language Models by Automated Process Supervision. ArXiv 2024. [[paper](https://arxiv.org/abs/2406.06592)]
 6. Learning Planning-based Reasoning by Trajectories Collection and Process Reward Synthesizing [paper]
 
-##### Implicit PRM (w/o need for explicit reward labels)
+#### Implicit PRM (w/o need for explicit reward labels)
 
 1. Process Reinforcement through Implicit Rewards. Blog 2024. [[blog](https://curvy-check-498.notion.site/Process-Reinforcement-through-Implicit-Rewards-15f4fcb9c42180f1b498cc9b2eaf896f)] 
 2. Free Process Rewards without Process Labels. Arxiv 2024. [[paper](https://aclanthology.org/2024.acl-long.510/)]
